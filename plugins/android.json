@@ -1,0 +1,32 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-hot-code-push-plugin": {
+      "PACKAGE_NAME": "com.soft.demo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.soft.demo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.soft.demo"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "2e5caccdbc02f74e617691c3",
+      "PACKAGE_NAME": "com.soft.demo"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.soft.demo"
+    },
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.soft.demo"
+    }
+  }
+}

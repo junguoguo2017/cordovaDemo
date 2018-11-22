@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "ios_identifier": "",
+  "android_identifier": "",
+  "update": "resume",
+  "content_url": "http://localhost:31284",
+  "release": "2018.11.09-17.56.31"
+}
